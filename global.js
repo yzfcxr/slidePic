@@ -120,11 +120,4 @@ function goOn(navclass,index,callback){
 
 }	
 
-// function prepareTime(){
-// 	time("nav",0);
-// 	time("nav",1);
-// 	time("nav",2);
-// 	time("nav",3);
-// 	time("nav",4);
-// 	time("nav",5);
-// }
+
